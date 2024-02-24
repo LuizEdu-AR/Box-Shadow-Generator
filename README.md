@@ -14,3 +14,5 @@ Horizontal and vertical displacement
   <p>Shadow color</p>
   <p>Opacity</p>
 </div>
+
+<img src="readme_img.jpg" alt="Apple" style=""/>
